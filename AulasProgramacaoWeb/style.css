@@ -19,7 +19,7 @@ ul {
   }
   
  
-/*Altere a cor para preto*/
+/*Altere a cor*/
   li a:hover {
     background-color:#40E0D0;
   }
@@ -28,7 +28,7 @@ ul {
   }
 
   
-/*Adicione uma borda direita cinza*/
+/*Adicione uma borda cinza*/
 
 li {
     border-right: 1px solid #bbb;
@@ -48,8 +48,16 @@ li {
     position: sticky;
     top: 0;
   }
-  Div.a {
+  h1.a {
       text-align: center;
+
+}
+
+  h2.a {
+    text-align: center;
+}
+  footer.1 {
+    text-align: center;
 }
 
 section {
